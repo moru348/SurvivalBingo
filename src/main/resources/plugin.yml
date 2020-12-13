@@ -1,0 +1,10 @@
+name: SurvivalBingo
+version: ${project.version}
+main: me.moru3.survivalbingo.SurvivalBingo
+api-version: 1.15
+authors: [ moru3_48 ]
+description: SurvivalBingo。
+website: https://moru3.dev/
+commands:
+  survivalbingo:
+    description: main command.
